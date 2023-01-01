@@ -37,7 +37,7 @@ disableImageOptimization = true
   showMoreLink = true
   showMoreLinkDest = "docs"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
