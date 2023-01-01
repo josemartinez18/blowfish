@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b9912c9db26765a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exampleSite/content/lab/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "exampleSite/content/samples/_index.md",
+            "file": "exampleSite/content/lab/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "exampleSite/content/samples/_index.md",
+            "file": "exampleSite/content/lab/_index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +127,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "exampleSite/content/samples/_index.md"
+            "file": "exampleSite/content/lab/_index.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "5747127117f9abc7",
+  "active": "3b9912c9db26765a",
   "lastOpenFiles": [
+    "exampleSite/content/samples/_index.md",
+    "exampleSite/content/lab/_index.md",
     "exampleSite/content/_index.md",
     "exampleSite/content/docs/_index.md"
   ]
