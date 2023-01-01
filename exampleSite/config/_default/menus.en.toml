@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Lab"
-  pageRef = "samples"
+  pageRef = "lab"
   weight = 20
 
 [[main]]
