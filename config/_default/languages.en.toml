@@ -5,18 +5,18 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Blowfish"
+title = "Studio Jose Martinez Castro"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "Design and 3D Studio"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Your name here"
+  name = "Studio Jose Martinez Castro"
   image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Design and 3D Studio"
+  bio = "Design and 3D Studio"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
