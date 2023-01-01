@@ -79,7 +79,7 @@ disableImageOptimization = true
   showCards = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy","term"]
