@@ -1,6 +1,7 @@
 ---
 title: "Jose Martinez Castro"
 description: Design and 3D Freelancer"
+layout: simple
 ---
 {{< lead >}}
 Industrial Design and 3D Freelancer

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exampleSite/content/lab/_index.md",
+                "file": "exampleSite/content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "exampleSite/content/lab/_index.md",
+            "file": "exampleSite/content/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "exampleSite/content/lab/_index.md",
+            "file": "exampleSite/content/_index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "exampleSite/content/lab/_index.md"
+            "file": "exampleSite/content/_index.md"
           }
         }
       }
@@ -123,6 +123,7 @@
   },
   "active": "9d7e9f07034ec07e",
   "lastOpenFiles": [
+    "exampleSite/content/lab/_index.md",
     "exampleSite/content/work/Texalive/index.md",
     "exampleSite/content/work/Texalive/featured.png",
     "exampleSite/content/work/Senseglove/featured.png",
@@ -131,7 +132,6 @@
     "exampleSite/content/work/Pond/featured.png",
     "exampleSite/content/work/Pond/index.md",
     "exampleSite/content/work/Remobility/featured.png",
-    "exampleSite/content/work/Remobility/index.md",
-    "exampleSite/content/work/Senseglove/index.md"
+    "exampleSite/content/work/Remobility/index.md"
   ]
 }
