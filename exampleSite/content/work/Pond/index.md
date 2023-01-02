@@ -12,4 +12,4 @@ Space for personal design and 3D visuals exploration
 
 ---
 
-![](exampleSite/content/work/Pond/featured.png)
+![](featured.png)

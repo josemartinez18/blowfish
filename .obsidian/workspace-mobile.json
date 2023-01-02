@@ -4,133 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00de2286fbda51bf",
+        "id": "3e893d776adaef87",
         "type": "tabs",
         "children": [
           {
-            "id": "5747127117f9abc7",
+            "id": "9d7e9f07034ec07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exampleSite/content/samples/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8bf74a000176c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exampleSite/content/work/Senseglove/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "025bb27f9d45a750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exampleSite/content/work/Remobility/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b676c7419f10b597",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "exampleSite/content/work/Remobility/featured.png"
-              }
-            }
-          },
-          {
-            "id": "814e79a346e4da07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exampleSite/content/work/Pond/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2287e907749a7b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "exampleSite/content/work/Pond/featured.png"
-              }
-            }
-          },
-          {
-            "id": "3dd8889202215ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exampleSite/content/work/Bugaboo/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e097a378bb21323c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "exampleSite/content/work/Bugaboo/featured.jpeg"
-              }
-            }
-          },
-          {
-            "id": "5aefc6dc8389601c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "exampleSite/content/work/Senseglove/featured.png"
-              }
-            }
-          },
-          {
-            "id": "3b9912c9db26765a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "exampleSite/content/work/Texalive/featured.png"
-              }
-            }
-          },
-          {
-            "id": "8abfc2f0e6201d7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exampleSite/content/work/Texalive/index.md",
+                "file": "exampleSite/content/lab/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "exampleSite/content/work/Bugaboo/featured.jpeg",
+            "file": "exampleSite/content/lab/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "exampleSite/content/work/Bugaboo/featured.jpeg",
+            "file": "exampleSite/content/lab/_index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -225,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "exampleSite/content/work/Bugaboo/featured.jpeg"
+            "file": "exampleSite/content/lab/_index.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "e097a378bb21323c",
+  "active": "9d7e9f07034ec07e",
   "lastOpenFiles": [
+    "exampleSite/content/work/Texalive/index.md",
+    "exampleSite/content/work/Texalive/featured.png",
+    "exampleSite/content/work/Senseglove/featured.png",
+    "exampleSite/content/work/Bugaboo/featured.jpeg",
     "exampleSite/content/work/Bugaboo/index.md",
     "exampleSite/content/work/Pond/featured.png",
     "exampleSite/content/work/Pond/index.md",
     "exampleSite/content/work/Remobility/featured.png",
     "exampleSite/content/work/Remobility/index.md",
-    "exampleSite/content/work/Senseglove/index.md",
-    "exampleSite/content/work/Senseglove/featured.png",
-    "exampleSite/content/work/Texalive/featured.png",
-    "exampleSite/content/work/Texalive/index.md",
-    "exampleSite/content/samples/_index.md"
+    "exampleSite/content/work/Senseglove/index.md"
   ]
 }

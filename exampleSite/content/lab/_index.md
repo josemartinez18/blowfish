@@ -11,6 +11,7 @@ Space for personal design and 3D visuals exploration
 {{< /lead >}}
 
 ---
+{{< vimeo 707892446 >}}
 
 ![](2160B547-2FD7-435F-A083-770C1ADD5E17.jpeg)
 ![](28B369E2-40AE-4B17-99A6-DB60ADF46201.jpeg)
