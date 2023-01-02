@@ -1,6 +1,7 @@
 ---
 title: "Lab"
 description: "See what's possible with Blowfish."
+layout: simple
 
 cascade:
   showEdit: false
